@@ -10,20 +10,27 @@
 
 
 ##### Bio
-      I’m a mastery-driven Midwesterner who’s good at solving problems through tinkering. I always have an eye to how my projects can improve the lives of others. I’m invested in creating technology that offers solutions.     
+I’m a mastery-driven Midwesterner who’s good at solving problems through tinkering. I always have an eye to how my projects can improve the lives of others. I’m invested in creating technology that offers solutions.     
 ##### Skills
-     * Python 
-     * Express 
-     * React 
-     * JavaScript  HTML · CSS · Node.js · Django	 
-      MongoDB · PostgreSQL · GitHub  · Linux  
+   * Python 
+   * Express 
+   * React 
+   * JavaScript 
+   * HTML 
+   * CSS
+   * Node.js 
+   * Django	 
+   * MongoDB 
+   * PostgreSQL 
+   * GitHub  
+   * Linux  
 ##### Projects
 ###### Coffee Snob
-     * Built using Node.js, Express, MongoDB and Bolma
-     * Constructed as a solo-developer a website for users to review coffees and keep track of their preferences. 
+   * Built using Node.js, Express, MongoDB and Bolma
+   * Constructed as a solo-developer a website for users to review coffees and keep track of their preferences. 
 That Time in the Desert
-    * Built with Python, Django, PostgreSQL, and Sass
-    * As a team, we build a website for users to share their experiences with  substances and to read others experiences in order to make better informed decisions 
+   * Built with Python, Django, PostgreSQL, and Sass
+   * As a team, we build a website for users to share their experiences with  substances and to read others experiences in order to make better informed decisions 
 ##### Experience 
 ###### Software Developer	April - July 2019
    * 12 week Software Engineering Immersive at General Assembly in San Francisco, CA
@@ -43,7 +50,7 @@ That Time in the Desert
     * Oversaw the day to day operations of specialty coffee shop in one of LA’s trendiest neighborhoods    
 #### Education
 ##### General Assembly                                                                                                     2019
-    * Software Engineering Immersive
+   * Software Engineering Immersive
 
 ##### Wright State University                                                                                           2010
-    * Motion Picture Production
+   * Motion Picture Production
